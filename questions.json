@@ -1,16 +1,17 @@
 [
-  {
-    "id": 2,
-    "question": "Güter können nach unterschiedlichen Kriterien eingeteilt werden. Ordnen Sie die Beispiele den richtigen Kombinationen zu.",
-    "options": {
-      "A": "Konsumgut als Gebrauchsgut",
-      "B": "Produktionsgut als Verbrauchsgut",
-      "C": "Produktionsgut als Gebrauchsgut",
-      "D": "Konsumgut als Verbrauchsgut"
-    },
-    "correctAnswer": null,
-    "explanation": "Zuordnung erfolgt für mehrere Beispiele; mehrere richtige Zuordnungen möglich."
-  },
+  
+{
+"id": 2,
+"question": "Welche Kombination trifft auf Brot zu?",
+"options": {
+"A": "Konsumgut als Gebrauchsgut",
+"B": "Produktionsgut als Verbrauchsgut",
+"C": "Produktionsgut als Gebrauchsgut",
+"D": "Konsumgut als Verbrauchsgut"
+},
+"correctAnswer": "D",
+"explanation": "Brot wird von Endverbrauchern gekauft und direkt verbraucht. Deshalb ist es ein Konsumgut und gleichzeitig ein Verbrauchsgut."
+}, 
   {
     "id": 3,
     "question": "Welche Aussage zu Solid State Drives (SSDs) trifft zu?",
@@ -102,19 +103,19 @@
     "correctAnswer": "E",
     "explanation": "Bedarf ist durch Kaufkraft gedecktes Bedürfnis."
   },
-  {
-    "id": 10,
-    "question": "Minimalprinzip oder Maximalprinzip zuordnen",
-    "options": {
-      "A": "Werbung: viele Neukunden mit Budget 15.000€",
-      "B": "50L Diesel, möglichst lange Strecke",
-      "C": "250€ Budget, maximale Funktionen",
-      "D": "Kosten senken durch neuen Anbieter",
-      "E": "möglichst viele Chips aus Wafer"
-    },
-    "correctAnswer": null,
-    "explanation": "Mehrere Zuordnungen: A,C,D,E Maximal/Minimal je nach Zielrichtung."
-  },
+ {
+"id": 10,
+"question": "Welches Beispiel beschreibt das Minimalprinzip?",
+"options": {
+"A": "Werbung: viele Neukunden mit Budget 15.000€",
+"B": "50L Diesel, möglichst lange Strecke",
+"C": "250€ Budget, maximale Funktionen",
+"D": "Kosten senken durch neuen Anbieter",
+"E": "möglichst viele Chips aus Wafer"
+},
+"correctAnswer": "D",
+"explanation": "Beim Minimalprinzip soll ein Ziel mit möglichst geringem Mitteleinsatz erreicht werden. Das Senken von Kosten durch einen neuen Anbieter ist ein typisches Beispiel."
+}, 
   {
     "id": 11,
     "question": "Welche ist ein gemeinwirtschaftlicher Betrieb?",
@@ -414,45 +415,45 @@
     "correctAnswer": "E",
     "explanation": "Konsumentenrente = Vorteil für Käufer."
   },
+ {
+"id": 34,
+"question": "Bei einem Preis von 30€ werden 40 Stück nachgefragt und 40 Stück angeboten. Wie hoch sind Gleichgewichtspreis und Gleichgewichtsmenge?",
+"options": {
+"A": "30 Stück; 30€",
+"B": "40 Stück; 30€",
+"C": "20 Stück; 50€",
+"D": "50 Stück; 50€",
+"E": "50 Stück; 60€"
+},
+"correctAnswer": "B",
+"explanation": "Im Marktgleichgewicht stimmen angebotene und nachgefragte Menge überein. Das ist hier bei 40 Stück und 30€ der Fall."
+}, 
   {
-    "id": 34,
-    "question": "Gleichgewichtspreis und Menge",
-    "options": {
-      "A": "30 Stück; 30€",
-      "B": "40 Stück; 30€",
-      "C": "20 Stück; 50€",
-      "D": "50 Stück; 50€",
-      "E": "50 Stück; 60€"
-    },
-    "correctAnswer": null,
-    "explanation": "Erfordert Diagramm."
-  },
-  {
-    "id": 35,
-    "question": "Umsatz beim Gleichgewichtspreis",
-    "options": {
-      "A": "2000€",
-      "B": "2500€",
-      "C": "3000€",
-      "D": "3500€",
-      "E": "5000€"
-    },
-    "correctAnswer": null,
-    "explanation": "Abhängig von Aufgabe 34."
-  },
-  {
-    "id": 36,
-    "question": "Angebotsüberhang bei 60€",
-    "options": {
-      "A": "5",
-      "B": "10",
-      "C": "15",
-      "D": "20",
-      "E": "30"
-    },
-    "correctAnswer": null,
-    "explanation": "Grafik benötigt."
-  },
+"id": 35,
+"question": "Der Gleichgewichtspreis beträgt 50€ und die Gleichgewichtsmenge 50 Stück. Wie hoch ist der Umsatz?",
+"options": {
+"A": "2000€",
+"B": "2500€",
+"C": "3000€",
+"D": "3500€",
+"E": "5000€"
+},
+"correctAnswer": "B",
+"explanation": "Umsatz = Preis × Menge = 50 × 50 = 2500€."
+}, 
+{
+"id": 36,
+"question": "Bei einem Preis von 60€ werden 50 Stück angeboten und 30 Stück nachgefragt. Wie groß ist der Angebotsüberhang?",
+"options": {
+"A": "5",
+"B": "10",
+"C": "15",
+"D": "20",
+"E": "30"
+},
+"correctAnswer": "D",
+"explanation": "Angebotsüberhang = angebotene Menge minus nachgefragte Menge = 50 - 30 = 20."
+}, 
   {
     "id": 37,
     "question": "Produzentenrente pro Stück",
