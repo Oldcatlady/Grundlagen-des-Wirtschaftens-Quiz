@@ -1,0 +1,534 @@
+[
+  {
+    "id": 2,
+    "question": "Güter können nach unterschiedlichen Kriterien eingeteilt werden. Ordnen Sie die Beispiele den richtigen Kombinationen zu.",
+    "options": {
+      "A": "Konsumgut als Gebrauchsgut",
+      "B": "Produktionsgut als Verbrauchsgut",
+      "C": "Produktionsgut als Gebrauchsgut",
+      "D": "Konsumgut als Verbrauchsgut"
+    },
+    "correctAnswer": null,
+    "explanation": "Zuordnung erfolgt für mehrere Beispiele; mehrere richtige Zuordnungen möglich."
+  },
+  {
+    "id": 3,
+    "question": "Welche Aussage zu Solid State Drives (SSDs) trifft zu?",
+    "options": {
+      "A": "SSDs sind Investitionsgüter im privaten Haushalt",
+      "B": "SSDs sind Konsumgüter im privaten Haushalt",
+      "C": "SSDs sind Investitionsgüter wegen Herstellerpräsentation",
+      "D": "SSDs sind Konsumgüter bei Unternehmen",
+      "E": "SSDs sind freie Wirtschaftsgüter"
+    },
+    "correctAnswer": "B",
+    "explanation": "SSDs gelten bei privaten Haushalten als Konsumgüter."
+  },
+  {
+    "id": 4,
+    "question": "Welche Aussage trifft auf Produktionsgüter zu?",
+    "options": {
+      "A": "nur kurzfristig in Gebrauch",
+      "B": "nur freie Güter",
+      "C": "werden von privaten Haushalten angeschafft",
+      "D": "alle Sachgüter und Dienstleistungen",
+      "E": "werden von Betrieben zur Herstellung anderer Güter verwendet"
+    },
+    "correctAnswer": "E",
+    "explanation": "Produktionsgüter dienen der Herstellung anderer Güter in Betrieben."
+  },
+  {
+    "id": 5,
+    "question": "Welche Aussage trifft auf Konsumgüter zu?",
+    "options": {
+      "A": "werden von Betrieben verwendet",
+      "B": "verzehren sich beim Verbrauch",
+      "C": "werden von privaten Haushalten angeschafft",
+      "D": "nur Dienstleistungen",
+      "E": "nur freie Güter"
+    },
+    "correctAnswer": "C",
+    "explanation": "Konsumgüter werden von privaten Haushalten genutzt."
+  },
+  {
+    "id": 6,
+    "question": "Welche Voraussetzungen sind für ein Bedürfnis notwendig?",
+    "options": {
+      "A": "Preiswerte Güter",
+      "B": "Mangelempfinden",
+      "C": "Überschaubarkeit des Marktes",
+      "D": "Kaufkraft",
+      "E": "Einkommen"
+    },
+    "correctAnswer": ["B", "D", "E"],
+    "explanation": "Ein Bedürfnis setzt Mangelgefühl und Kaufkraft/Einkommen voraus."
+  },
+  {
+    "id": 7,
+    "question": "Welche Aussage zur Foliermaschine trifft zu?",
+    "options": {
+      "A": "Konsumgut wegen Versand",
+      "B": "Konsumgut im Herstellungsprozess",
+      "C": "Gebrauchsgut wegen langfristiger Nutzung",
+      "D": "Verbrauchsgut",
+      "E": "Konsumgut, weil Produktionsgüter nur privat gekauft werden"
+    },
+    "correctAnswer": "C",
+    "explanation": "Die Foliermaschine ist ein Gebrauchsgut im Betrieb."
+  },
+  {
+    "id": 8,
+    "question": "Welche Beispiele sind Kollektivbedürfnisse?",
+    "options": {
+      "A": "Neues Smartphone",
+      "B": "Mobilfunknetz",
+      "C": "Urlaubsreise",
+      "D": "Private Krankenversicherung",
+      "E": "Tablet-PC"
+    },
+    "correctAnswer": "B",
+    "explanation": "Mobilfunknetz ist ein Kollektivgut."
+  },
+  {
+    "id": 9,
+    "question": "Welche Aussage trifft auf Bedarf zu?",
+    "options": {
+      "A": "nur Produktionsgüter",
+      "B": "durch freie Güter gedeckt",
+      "C": "nicht befriedigbare Bedürfnisse",
+      "D": "nur Konsumgüter",
+      "E": "durch Kaufkraft gedeckte Bedürfnisse"
+    },
+    "correctAnswer": "E",
+    "explanation": "Bedarf ist durch Kaufkraft gedecktes Bedürfnis."
+  },
+  {
+    "id": 10,
+    "question": "Minimalprinzip oder Maximalprinzip zuordnen",
+    "options": {
+      "A": "Werbung: viele Neukunden mit Budget 15.000€",
+      "B": "50L Diesel, möglichst lange Strecke",
+      "C": "250€ Budget, maximale Funktionen",
+      "D": "Kosten senken durch neuen Anbieter",
+      "E": "möglichst viele Chips aus Wafer"
+    },
+    "correctAnswer": null,
+    "explanation": "Mehrere Zuordnungen: A,C,D,E Maximal/Minimal je nach Zielrichtung."
+  },
+  {
+    "id": 11,
+    "question": "Welche ist ein gemeinwirtschaftlicher Betrieb?",
+    "options": {
+      "A": "Microsoft GmbH",
+      "B": "Adobe Systems GmbH",
+      "C": "SAP AG Berlin",
+      "D": "Technische Universität Berlin",
+      "E": "Thalia"
+    },
+    "correctAnswer": "D",
+    "explanation": "Universitäten gehören zu gemeinwirtschaftlichen Betrieben."
+  },
+  {
+    "id": 12,
+    "question": "Aussagen zu erwerbswirtschaftlichen Betrieben",
+    "options": {
+      "A": "kein Gewinn erlaubt",
+      "B": "Gewinnstreben",
+      "C": "Versorgungsprinzip",
+      "D": "keine Kostenkontrolle",
+      "E": "alle öffentliche Betriebe"
+    },
+    "correctAnswer": "B",
+    "explanation": "Erwerbswirtschaftliche Betriebe streben Gewinn an."
+  },
+  {
+    "id": 13,
+    "question": "Aussagen zu gemeinwirtschaftlichen Betrieben",
+    "options": {
+      "A": "Gewinnstreben",
+      "B": "kein Gewinn erlaubt",
+      "C": "Versorgungsprinzip",
+      "D": "keine Kostenkontrolle",
+      "E": "öffentliche Betriebe"
+    },
+    "correctAnswer": ["C", "E"],
+    "explanation": "Gemeinwirtschaftliche Betriebe dienen Versorgung und sind oft öffentlich."
+  },
+  {
+    "id": 14,
+    "question": "Produktionsfaktoren",
+    "options": {
+      "A": "Arbeit, Geldkapital, Sachkapital, Boden",
+      "B": "Arbeit, dispositiver Faktor, Natur, Güter",
+      "C": "Arbeit, dispositiver Faktor, Kapital, Maschinen, Boden",
+      "D": "ausführende Arbeit, dispositiver Faktor, Betriebsmittel, Werkstoffe, Rechte",
+      "E": "Arbeit, Boden, Rechte, dispositiver Faktor"
+    },
+    "correctAnswer": "C",
+    "explanation": "Standardmodell der Produktionsfaktoren."
+  },
+  {
+    "id": 15,
+    "question": "Werkstoffe und Waren umfassen",
+    "options": {
+      "A": "Rohstoffe",
+      "B": "Grundstücke",
+      "C": "Maschinen",
+      "D": "Patente",
+      "E": "Lizenzen"
+    },
+    "correctAnswer": "A",
+    "explanation": "Werkstoffe sind Rohstoffe und Materialien."
+  },
+  {
+    "id": 16,
+    "question": "Richtige Güterfolge",
+    "options": {
+      "A": "Güter → Wirtschaftsgüter → Sachgüter → Produktionsgüter → Verbrauchsgüter",
+      "B": "Güter → Wirtschaftsgüter → Sachgüter → Konsumgüter → Verbrauchsgüter",
+      "C": "Güter → Wirtschaftsgüter → Sachgüter → Konsumgüter → Gebrauchsgüter",
+      "D": "Güter → Dienstleistungen → Fachbuch",
+      "E": "freie Güter → Elektrizität"
+    },
+    "correctAnswer": "B",
+    "explanation": "Logische Einordnung führt zu Konsumgütern."
+  },
+  {
+    "id": 17,
+    "question": "Volkswirtschaftliche Arbeit",
+    "options": {
+      "A": "Fotos drucken zu Hause",
+      "B": "Grafikkarte einbauen privat",
+      "C": "Druckertreiber installieren",
+      "D": "Windows Installation für Kunden",
+      "E": "private Grafikkarte einbauen"
+    },
+    "correctAnswer": "D",
+    "explanation": "Nur berufliche Tätigkeit zählt."
+  },
+  {
+    "id": 18,
+    "question": "Ausführende Arbeit",
+    "options": {
+      "A": "Personalkonzeption",
+      "B": "Sortiment beschließen",
+      "C": "Finanzkonzept",
+      "D": "Versand Mitarbeiter Tätigkeit",
+      "E": "Filiale planen"
+    },
+    "correctAnswer": "D",
+    "explanation": "Ausführende Arbeit = operative Tätigkeit."
+  },
+  {
+    "id": 19,
+    "question": "Boden Nutzung",
+    "options": {
+      "A": "abgeleiteter Produktionsfaktor",
+      "B": "nicht übertragbar",
+      "C": "Anbauboden",
+      "D": "Abbauboden",
+      "E": "Standortboden"
+    },
+    "correctAnswer": "E",
+    "explanation": "Grundstück = Standortboden."
+  },
+  {
+    "id": 20,
+    "question": "Seltene Erden Nutzung",
+    "options": {
+      "A": "Anbauboden",
+      "B": "Abbauboden",
+      "C": "Standortboden",
+      "D": "abgeleiteter Faktor",
+      "E": "übertragbar"
+    },
+    "correctAnswer": "B",
+    "explanation": "Bergbau = Abbauboden."
+  },
+  {
+    "id": 21,
+    "question": "Wirtschaftssektor ACI Computer GmbH",
+    "options": {
+      "A": "Primär",
+      "B": "Sekundär",
+      "C": "Tertiär",
+      "D": "Quartär",
+      "E": "Quintär"
+    },
+    "correctAnswer": "C",
+    "explanation": "Handel = tertiärer Sektor."
+  },
+  {
+    "id": 22,
+    "question": "Wirtschaftssektor Thermaltake GmbH",
+    "options": {
+      "A": "Primär",
+      "B": "Sekundär",
+      "C": "Tertiär",
+      "D": "Quartär",
+      "E": "Quintär"
+    },
+    "correctAnswer": "B",
+    "explanation": "Produktion = sekundärer Sektor."
+  },
+  {
+    "id": 23,
+    "question": "Komplementärgüter",
+    "options": {
+      "A": "Monitor & Drucker",
+      "B": "Grafikkarte & Pinsel",
+      "C": "Smartphone & Festplatte",
+      "D": "Laser- & Tintenstrahldrucker",
+      "E": "PC & Tastatur"
+    },
+    "correctAnswer": ["A", "E"],
+    "explanation": "Komplementär = ergänzende Güter."
+  },
+  {
+    "id": 24,
+    "question": "Produktionsfaktor Gabelstapler",
+    "options": {
+      "A": "dispositiv",
+      "B": "ausführend",
+      "C": "Werkstoffe",
+      "D": "Betriebsmittel",
+      "E": "Rechte"
+    },
+    "correctAnswer": "D",
+    "explanation": "Gabelstapler = Betriebsmittel."
+  },
+  {
+    "id": 25,
+    "question": "Sozialräume und ökonomisches Prinzip",
+    "options": {
+      "A": "verstößt gegen Prinzip",
+      "B": "gemeinwirtschaftlich",
+      "C": "unnötige Kosten",
+      "D": "erhält Leistungsfähigkeit",
+      "E": "keine Relevanz"
+    },
+    "correctAnswer": "D",
+    "explanation": "Sozialräume steigern Produktivität."
+  },
+  {
+    "id": 26,
+    "question": "Vollkommener Markt Voraussetzung",
+    "options": {
+      "A": "Verschiedenheit",
+      "B": "Präferenzen",
+      "C": "fehlende Transparenz Anbieter",
+      "D": "fehlende Transparenz Nachfrager",
+      "E": "Homogenität"
+    },
+    "correctAnswer": "E",
+    "explanation": "Homogene Güter sind Voraussetzung."
+  },
+  {
+    "id": 27,
+    "question": "Unvollkommener Markt Bedingung",
+    "options": {
+      "A": "persönliche Präferenzen",
+      "B": "zeitliche Präferenzen",
+      "C": "räumliche Präferenzen",
+      "D": "fehlende Transparenz",
+      "E": "Vielfalt"
+    },
+    "correctAnswer": "A",
+    "explanation": "Treue zum Händler = persönliche Präferenz."
+  },
+  {
+    "id": 28,
+    "question": "Marktform Kunsthandel",
+    "options": {
+      "A": "Angebotsmonopol",
+      "B": "Nachfragemonopol",
+      "C": "Zweiseitiges Oligopol",
+      "D": "Angebotsoligopol",
+      "E": "Polypol"
+    },
+    "correctAnswer": "C",
+    "explanation": "Wenige Anbieter und Nachfrager."
+  },
+  {
+    "id": 29,
+    "question": "Marktpreis Funktion",
+    "options": {
+      "A": "Anreizfunktion",
+      "B": "Signalfunktion",
+      "C": "Steuerung",
+      "D": "Ausgleich",
+      "E": "Ausschaltung"
+    },
+    "correctAnswer": "E",
+    "explanation": "Nicht konkurrenzfähige werden verdrängt."
+  },
+  {
+    "id": 30,
+    "question": "Gleichgewichtspreis steigt wenn",
+    "options": {
+      "A": "Angebot steigt",
+      "B": "Angebot steigt bei konstanter Nachfrage",
+      "C": "Angebot sinkt bei konstanter Nachfrage",
+      "D": "Nachfrage sinkt",
+      "E": "Angebot steigt und Nachfrage sinkt"
+    },
+    "correctAnswer": "C",
+    "explanation": "Weniger Angebot → Preis steigt."
+  },
+  {
+    "id": 31,
+    "question": "Gleichgewichtspreis sinkt wenn",
+    "options": {
+      "A": "Angebot sinkt",
+      "B": "Angebot sinkt bei konstanter Nachfrage",
+      "C": "Angebot steigt bei konstanter Nachfrage",
+      "D": "Nachfrage steigt",
+      "E": "Angebot sinkt und Nachfrage steigt"
+    },
+    "correctAnswer": "C",
+    "explanation": "Mehr Angebot → Preis sinkt."
+  },
+  {
+    "id": 32,
+    "question": "Mehrpreis für Anbieter",
+    "options": {
+      "A": "Produzentendividende",
+      "B": "Konsumentendividende",
+      "C": "Marktgleichgewicht",
+      "D": "Produzentenrente",
+      "E": "Konsumentenrente"
+    },
+    "correctAnswer": "D",
+    "explanation": "Produzentenrente entsteht bei Mehrpreis."
+  },
+  {
+    "id": 33,
+    "question": "Vorteil für Käufer",
+    "options": {
+      "A": "Produzentendividende",
+      "B": "Konsumentendividende",
+      "C": "Marktgleichgewicht",
+      "D": "Produzentenrente",
+      "E": "Konsumentenrente"
+    },
+    "correctAnswer": "E",
+    "explanation": "Konsumentenrente = Vorteil für Käufer."
+  },
+  {
+    "id": 34,
+    "question": "Gleichgewichtspreis und Menge",
+    "options": {
+      "A": "30 Stück; 30€",
+      "B": "40 Stück; 30€",
+      "C": "20 Stück; 50€",
+      "D": "50 Stück; 50€",
+      "E": "50 Stück; 60€"
+    },
+    "correctAnswer": null,
+    "explanation": "Erfordert Diagramm."
+  },
+  {
+    "id": 35,
+    "question": "Umsatz beim Gleichgewichtspreis",
+    "options": {
+      "A": "2000€",
+      "B": "2500€",
+      "C": "3000€",
+      "D": "3500€",
+      "E": "5000€"
+    },
+    "correctAnswer": null,
+    "explanation": "Abhängig von Aufgabe 34."
+  },
+  {
+    "id": 36,
+    "question": "Angebotsüberhang bei 60€",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20",
+      "E": "30"
+    },
+    "correctAnswer": null,
+    "explanation": "Grafik benötigt."
+  },
+  {
+    "id": 37,
+    "question": "Produzentenrente pro Stück",
+    "options": {
+      "A": "30€",
+      "B": "20€",
+      "C": "10€",
+      "D": "40€",
+      "E": "50€"
+    },
+    "correctAnswer": null,
+    "explanation": "Abhängig von Daten."
+  },
+  {
+    "id": 38,
+    "question": "Substitutionsgüter Effekt",
+    "options": {
+      "A": "kein Einfluss",
+      "B": "nur komplementäre relevant",
+      "C": "nur indifferente relevant",
+      "D": "Nachfrage steigt",
+      "E": "Nachfrage sinkt"
+    },
+    "correctAnswer": "D",
+    "explanation": "Preis Substitut steigt → Nachfrage steigt."
+  },
+  {
+    "id": 39,
+    "question": "Angebotsmenge",
+    "options": {
+      "A": "mehr Preis → mehr Angebot",
+      "B": "mehr Preis → weniger Angebot",
+      "C": "mehr Menge → weniger Preis",
+      "D": "weniger Menge → mehr Preis",
+      "E": "kein Einfluss"
+    },
+    "correctAnswer": "A",
+    "explanation": "Preis und Angebot steigen gemeinsam."
+  },
+  {
+    "id": 40,
+    "question": "Einfluss auf Gleichgewichtspreis",
+    "options": {
+      "A": "steigt",
+      "B": "sinkt",
+      "C": "kein Einfluss Kosten",
+      "D": "kein Einfluss Trend",
+      "E": "nicht bestimmbar"
+    },
+    "correctAnswer": "A",
+    "explanation": "Nachfrage steigt + Kosten steigen → Preis steigt."
+  },
+  {
+    "id": 41,
+    "question": "Individualbedürfnis",
+    "options": {
+      "A": "Feuerwehr",
+      "B": "Universität",
+      "C": "Wohnzimmermöbel",
+      "D": "Grünanlagen",
+      "E": "Polizei"
+    },
+    "correctAnswer": "C",
+    "explanation": "Private Güter = Individualbedürfnis."
+  },
+  {
+    "id": 42,
+    "question": "Substitutionsgüter",
+    "options": {
+      "A": "Monitor & Drucker",
+      "B": "Grafikkarte & Pinsel",
+      "C": "Smartphone & Festplatte",
+      "D": "Laser- & Tintenstrahldrucker",
+      "E": "PC & Tastatur"
+    },
+    "correctAnswer": "D",
+    "explanation": "Substitute ersetzen sich gegenseitig."
+  }
+]
